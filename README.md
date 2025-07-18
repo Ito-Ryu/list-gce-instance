@@ -1,4 +1,4 @@
-# list-gce-instance
+# gce-list-instances
 
 ### 1. Create project_id.conf
 ```
