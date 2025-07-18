@@ -1,1 +1,22 @@
-# instance-count
+# list-gce-instance
+
+### 1. Create project_id.conf
+```
+# bach/project_id.config
+project_1
+project_2
+project_3...
+```
+
+### 2. Set gcloud account
+```
+gcloud config set account xxx@xxx.xx
+```
+
+### 3. Run the bash script
+```
+cd bash
+chmod +x list_gce.sh
+
+./list_gce.sh
+```

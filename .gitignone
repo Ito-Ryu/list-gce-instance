@@ -1,0 +1,4 @@
+bash/list_gcs.sh
+bash/instance.csv
+bash/disk.csv
+bash/project_id.conf
